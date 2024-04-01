@@ -1,0 +1,193 @@
+Awardee, Institute, Primary
+University of Illinois Urbana-Champaign (UIUC), ACTION, False
+University of Illinois Urbana-Champaign (UIUC), AI4ExceptionalEd, False
+University of Illinois Urbana-Champaign (UIUC), AI-EDGE, False
+University of Illinois Urbana-Champaign (UIUC), AIFARMS, True
+University of Illinois Urbana-Champaign (UIUC), AIFS, False
+University of Illinois Urbana-Champaign (UIUC), INVITE, True
+University of Illinois Urbana-Champaign (UIUC), iSAT, False
+University of Illinois Urbana-Champaign (UIUC), MMLI, True
+Georgia Institute of Technology, ACTION, False
+Georgia Institute of Technology, AI4OPT, True
+Georgia Institute of Technology, AI4OPT, False
+Georgia Institute of Technology, AI-ALOE, True
+Georgia Institute of Technology, AI CARING, True
+Ohio State University, AI-EDGE, True
+Ohio State University, ICICLE, True
+University of Washington, ACTION, False
+University of Washington, AI2ES, False
+University of Washington, AI4ExceptionalEd, False
+University of Washington, AI-EDGE, False
+University of Washington, AI-SDM, False
+University of Washington, Dynamics AI, True
+University of Washington, Dynamics AI, False
+University of Washington, IFML, False
+Carnegie Mellon University, AgAID, False
+Carnegie Mellon University, AI CARING, False
+Carnegie Mellon University, AI-EDGE, False
+Carnegie Mellon University, AIIRA, False
+Carnegie Mellon University, AI-SDM, True
+Massachusetts Institute of Technology, Athena, False
+Massachusetts Institute of Technology, IAIFI, True
+Massachusetts Institute of Technology, TILOS, False
+North Carolina State University, AI2ES, False
+North Carolina State University, AI-CLIMATE, False
+North Carolina State University, Engage AI, True
+University of Texas Austin, AI-EDGE, False
+University of Texas Austin, IFML, True
+University of Texas Austin, TILOS, False
+Columbia University, ARNI, True
+Columbia University, Dynamics AI, False
+Iowa State University, AIIRA, True
+Iowa State University, ICICLE, False
+University of California Davis, AIFS, True
+University of California Davis, ICICLE, False
+University of California San Diego, ICICLE, False
+University of California San Diego, TILOS, True
+Duke University, Athena, True
+UC Santa Barbara, ACTION, True
+University at Buffalo, AI4ExceptionalEd, True
+University of Colorado Boulder, iSAT, True
+University of Maryland, College Park, TRAILS, True
+University of Minnesota, AI-CLIMATE, True
+University of Oklahoma, AI2ES, True
+Washington State University, AgAID, True
+Harvard University, AI-ALOE, False
+Harvard University, AI-SDM, False
+Harvard University, ARNI, False
+Harvard University, Dynamics AI, False
+Harvard University, IAIFI, False
+Cornell University, AI4ExceptionalEd, False
+Cornell University, AI-CLIMATE, False
+Cornell University, AIFS, False
+Cornell University, TRAILS, False
+University of California Berkeley, ACTION, False
+University of California Berkeley, AI4OPT, False
+University of California Berkeley, AIFS, False
+University of California Berkeley, iSAT, False
+University of Wisconsin-Madison, AI-EDGE, False
+University of Wisconsin-Madison, Athena, False
+University of Wisconsin-Madison, ICICLE, False
+University of Wisconsin-Madison, iSAT, False
+Colorado State University, AI2ES, False
+Colorado State University, AI-CLIMATE, False
+Colorado State University, iSAT, False
+Pennsylvania State University, AI4ExceptionalEd, False
+Pennsylvania State University, AI-SDM, False
+Pennsylvania State University, MMLI, False
+Purdue University, ACTION, False
+Purdue University, AI-CLIMATE, False
+Purdue University, AI-EDGE, False
+University of Michigan, AI-EDGE, False
+University of Michigan, Athena, False
+University of Michigan, INVITE, False
+Yale University, ARNI, False
+Yale University, Athena, False
+Yale University, TILOS, False
+IBM, AgAID, False
+IBM, AI-ALOE, False
+Indiana University, Engage AI, False
+Indiana University, ICICLE, False
+Northeastern University, AI-EDGE, False
+Northeastern University, IAIFI, False
+Oregon State University, AgAID, False
+Oregon State University, AI CARING, False
+Texas A&M, AI2ES, False
+Texas A&M, AI-SDM, False
+Tuskegee University, AIFARMS, False
+Tuskegee University, ARNI, False
+USDA ARS (Agricultural Research Service), AIFARMS, False
+USDA ARS (Agricultural Research Service), AIFS, False
+University of Chicago, ACTION, False
+University of Chicago, AIFARMS, False
+University of Illinois at Chicago (UIC), ACTION, False
+University of Illinois at Chicago (UIC), AI-EDGE, False
+University of Oregon, AI4ExceptionalEd, False
+University of Oregon, INVITE, False
+University of Pennsylvania, ARNI, False
+University of Pennsylvania, TILOS, False
+University of Southern California, AI4OPT, False
+University of Southern California, INVITE, False
+University of Virginia, ACTION, False
+University of Virginia, AgAID, False
+Vanderbilt University, AI-ALOE, False
+Vanderbilt University, Engage AI, False
+1EdTech, AI-ALOE, False
+Argonne National Laboratory, AIFARMS, False
+Arizona State University, iSAT, False
+Balance Studios, INVITE, False
+Baylor College of Medicine, ARNI, False
+Boeing, AI-ALOE, False
+Boise State University, Dynamics AI, False
+Boston Children’s Hospital, AI-SDM, False
+Brandeis University, iSAT, False
+CUNY Graduate School University Center, ARNI, False
+CUNY Hunter College, ARNI, False
+Case Western Reserve University, ICICLE, False
+Clark Atlanta University, AI4OPT, False
+Del Mar College Corpus Christi, AI2ES, False
+Delaware State, AI-CLIMATE, False
+Digital Promise, Engage AI, False
+Donald Danforth Plant Science Center, AIFARMS, False
+Educational Testing Service, INVITE, False
+George Mason University, AIIRA, False
+George Washington University, TRAILS, False
+Georgia State University, AI-ALOE, False
+Heritage University, AgAID, False
+Howard University, AI-SDM, False
+IC-Foods, ICICLE, False
+ISRIC, AI-CLIMATE, False
+Illinois Center for Digital Agriculture, AIFARMS, False
+Innov8.ag, AgAID, False
+Iowa Soybean Association, AIIRA, False
+Kansas State University, AgAID, False
+MITRE Corporation, AI-SDM, False
+Michigan State University, AIFARMS, False
+Microsoft Research, IFML, False
+Montana State University, Dynamics AI, False
+Morgan State University, TRAILS, False
+NY Hall of Science, ARNI, False
+National University, TILOS, False
+Navajo Technical University, AI-SDM, False
+New York University, AIIRA, False
+Norfolk State University, ACTION, False
+North Carolina Agricultural and Technical State University, Athena, False
+Ohio Supercomputer Center, ICICLE, False
+Oregon Health and Science University, AI CARING, False
+Portland State University, Dynamics AI, False
+Princeton University, Athena, False
+Rensselaer Polytechnic Institute, ICICLE, False
+Rochester Institute of Technology, MMLI, False
+Rutgers University, ACTION, False
+San Diego Supercomputer Center, ICICLE, False
+Stanford University, AI4ExceptionalEd, False
+Technical College System of Georgia, AI-ALOE, False
+Temple University, INVITE, False
+Texas Advanced Computing Center, ICICLE, False
+Tufts University, IAIFI, False
+University at Albany, AI2ES, False
+University of Alaska Anchorage, Dynamics AI, False
+University of Arizona, AIIRA, False
+University of California Agricultural and Natural Resources, AIFS, False
+University of California Merced, AgAID, False
+University of California Santa Cruz, iSAT, False
+University of Delaware, ICICLE, False
+University of Florida, INVITE, False
+University of Hawaii, Dynamics AI, False
+University of Massachusetts Amherst, AI-EDGE, False
+University of Massachusetts Lowell, AI CARING, False
+University of Missouri, AIIRA, False
+University of Nebraska Lincoln, AIIRA, False
+University of Nevada Reno, Dynamics AI, False
+University of Nevada, Reno, AI4ExceptionalEd, False
+University of North Carolina at Chapel Hill, Engage AI, False
+University of North Carolina at Greensboro, AI-ALOE, False
+University of San Diego, AI4OPT, False
+University of Texas Arlington, AI4OPT, False
+University of Texas at El Paso, AI4ExceptionalEd, False
+University of Utah, ICICLE, False
+Wenatchee Valley College, AgAID, False
+Wichita State University, IFML, False
+Wiley, AI-ALOE, False
+Worcester Polytechnic Institute, iSAT, False
+Wright State University, INVITE, False
